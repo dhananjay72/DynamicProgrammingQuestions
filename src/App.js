@@ -15,7 +15,7 @@ function App() {
       >
         <h1> Dynamic Programming Questions </h1>
       </div>
-      <hr />
+
       <TableF />
     </>
   );

@@ -9,6 +9,7 @@ import TableHead from "@mui/material/TableHead";
 import TableRow from "@mui/material/TableRow";
 import Paper from "@mui/material/Paper";
 import tableData from "../constants/output";
+// import "./table.css";
 
 import { useState, useEffect } from "react";
 
@@ -25,12 +26,11 @@ dp[7] = "red";
 
 export const TableF = () => {
   const [isSolved, setIsSolved] = useState(getLocalItems);
+  const [solvedQuestions, setSolvedQuestions] = useState(0);
 
-  function checkHandler(index) {
-    let tt = isSolved;
-    tt[index] = true;
-    setIsSolved(tt);
-  }
+  useEffect(() => {
+    setSolvedQuestions(isSolved.filter((value) => value === true).length);
+  }, []);
 
   useEffect(() => {
     localStorage.setItem("dpList", JSON.stringify(isSolved));
@@ -38,6 +38,18 @@ export const TableF = () => {
 
   return (
     <div style={{ width: "100%" }}>
+      <div
+        className="gradient-border"
+        id="box"
+        style={{
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+        }}
+      >
+        <h2> {solvedQuestions} / 212 solved </h2>
+      </div>
+      <hr />
       <TableContainer>
         <Table
           sx={{
@@ -51,19 +63,29 @@ export const TableF = () => {
           <TableHead>
             <TableRow>
               <TableCell>
-                <b>Sr.no</b>
+                <h3>
+                  <b>Sr.no</b>
+                </h3>
               </TableCell>
               <TableCell>
-                <b>Questions</b>
+                <h3>
+                  <b>Questions</b>
+                </h3>
               </TableCell>
               <TableCell>
-                <b>Category</b>
+                <h3>
+                  <b>Category</b>
+                </h3>
               </TableCell>
               <TableCell>
-                <b>Difficulty</b>
+                <h3>
+                  <b>Difficulty</b>
+                </h3>
               </TableCell>
               <TableCell>
-                <b>Solved</b>
+                <h3>
+                  <b>Solved</b>
+                </h3>
               </TableCell>
             </TableRow>
           </TableHead>
@@ -98,6 +120,11 @@ export const TableF = () => {
                         defaultChecked
                         onChange={() => {
                           let tt = [...isSolved];
+                          console.log(tt[index], solvedQuestions);
+
+                          if (!tt[index])
+                            setSolvedQuestions(solvedQuestions + 1);
+                          else setSolvedQuestions(solvedQuestions - 1);
                           tt[index] = !tt[index];
                           setIsSolved(tt);
                         }}
@@ -106,6 +133,9 @@ export const TableF = () => {
                       <Checkbox
                         onChange={() => {
                           let tt = [...isSolved];
+                          if (!tt[index])
+                            setSolvedQuestions(solvedQuestions + 1);
+                          else setSolvedQuestions(solvedQuestions - 1);
                           tt[index] = !tt[index];
                           setIsSolved(tt);
                         }}
