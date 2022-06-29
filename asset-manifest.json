@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/DynamicProgrammingQuestions/static/css/main.073c9b0a.css",
-    "main.js": "/DynamicProgrammingQuestions/static/js/main.5c20809b.js",
+    "main.js": "/DynamicProgrammingQuestions/static/js/main.704dc660.js",
     "static/js/787.bdea3a2c.chunk.js": "/DynamicProgrammingQuestions/static/js/787.bdea3a2c.chunk.js",
     "static/media/logo.svg": "/DynamicProgrammingQuestions/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/DynamicProgrammingQuestions/index.html",
     "main.073c9b0a.css.map": "/DynamicProgrammingQuestions/static/css/main.073c9b0a.css.map",
-    "main.5c20809b.js.map": "/DynamicProgrammingQuestions/static/js/main.5c20809b.js.map",
+    "main.704dc660.js.map": "/DynamicProgrammingQuestions/static/js/main.704dc660.js.map",
     "787.bdea3a2c.chunk.js.map": "/DynamicProgrammingQuestions/static/js/787.bdea3a2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5c20809b.js"
+    "static/js/main.704dc660.js"
   ]
 }
