@@ -33,7 +33,7 @@ export const TableF = () => {
   }
 
   useEffect(() => {
-    localStorage.setItem("questionsList", JSON.stringify(isSolved));
+    localStorage.setItem("dpList", JSON.stringify(isSolved));
   }, [isSolved]);
 
   return (
