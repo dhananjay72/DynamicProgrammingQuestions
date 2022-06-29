@@ -1,0 +1,429 @@
+Title,URL,Difficulty,Category
+,,,
+Climbing Stairs,https://leetcode.com/problems/climbing-stairs,Easy,1.Linear DP
+,,,
+Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Easy,1.Linear DP
+,,,
+Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs,Easy,1.Linear DP
+,,,
+Divisor Game,https://leetcode.com/problems/divisor-game,Easy,1.Linear DP
+,,,
+Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii,Hard,1.Linear DP
+,,,
+Student Attendance Record II,https://leetcode.com/problems/student-attendance-record-ii,Hard,1.Linear DP
+,,,
+Decode Ways II,https://leetcode.com/problems/decode-ways-ii,Hard,1.Linear DP
+,,,
+Triples with Bitwise AND Equal To Zero,https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero,Hard,1.Linear DP
+,,,
+Maximum Profit in Job Scheduling,https://leetcode.com/problems/maximum-profit-in-job-scheduling,Hard,1.Linear DP
+,,,
+Minimum Number of Taps to Open to Water a Garden,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden,Hard,1.Linear DP
+,,,
+Count All Valid Pickup and Delivery Options,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options,Hard,1.Linear DP
+,,,
+Stone Game III,https://leetcode.com/problems/stone-game-iii,Hard,1.Linear DP
+,,,
+Restore The Array,https://leetcode.com/problems/restore-the-array,Hard,1.Linear DP
+,,,
+Form Largest Integer With Digits That Add up to Target,https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target,Hard,1.Linear DP
+,,,
+Stone Game IV,https://leetcode.com/problems/stone-game-iv,Hard,1.Linear DP
+,,,
+Decode Ways,https://leetcode.com/problems/decode-ways,Medium,1.Linear DP
+,,,
+Unique Binary Search Trees,https://leetcode.com/problems/unique-binary-search-trees,Medium,1.Linear DP
+,,,
+House Robber,https://leetcode.com/problems/house-robber,Medium,1.Linear DP
+,,,
+Perfect Squares,https://leetcode.com/problems/perfect-squares,Medium,1.Linear DP
+,,,
+Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,Medium,1.Linear DP
+,,,
+Coin Change,https://leetcode.com/problems/coin-change,Medium,1.Linear DP
+,,,
+Counting Bits,https://leetcode.com/problems/counting-bits,Medium,1.Linear DP
+,,,
+Integer Break,https://leetcode.com/problems/integer-break,Medium,1.Linear DP
+,,,
+Count Numbers with Unique Digits,https://leetcode.com/problems/count-numbers-with-unique-digits,Medium,1.Linear DP
+,,,
+Wiggle Subsequence,https://leetcode.com/problems/wiggle-subsequence,Medium,1.Linear DP
+,,,
+Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum,Medium,1.Linear DP
+,,,
+Maximum Length of Pair Chain,https://leetcode.com/problems/maximum-length-of-pair-chain,Medium,1.Linear DP
+,,,
+Best Time to Buy and Sell Stock with Transaction Fee,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee,Medium,1.Linear DP
+,,,
+Delete and Earn,https://leetcode.com/problems/delete-and-earn,Medium,1.Linear DP
+,,,
+Domino and Tromino Tiling,https://leetcode.com/problems/domino-and-tromino-tiling,Medium,1.Linear DP
+,,,
+Knight Dialer,https://leetcode.com/problems/knight-dialer,Medium,1.Linear DP
+,,,
+Minimum Cost For Tickets,https://leetcode.com/problems/minimum-cost-for-tickets,Medium,1.Linear DP
+,,,
+Partition Array for Maximum Sum,https://leetcode.com/problems/partition-array-for-maximum-sum,Medium,1.Linear DP
+,,,
+Filling Bookcase Shelves,https://leetcode.com/problems/filling-bookcase-shelves,Medium,1.Linear DP
+,,,
+Longest Arithmetic Subsequence of Given Difference,https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference,Medium,1.Linear DP
+,,,
+Greatest Sum Divisible by Three,https://leetcode.com/problems/greatest-sum-divisible-by-three,Medium,1.Linear DP
+,,,
+Profitable Schemes,https://leetcode.com/problems/profitable-schemes,Hard,2.Knapsack
+,,,
+Tallest Billboard,https://leetcode.com/problems/tallest-billboard,Hard,2.Knapsack
+,,,
+Pizza With 3n Slices,https://leetcode.com/problems/pizza-with-3n-slices,Hard,2.Knapsack
+,,,
+Reducing Dishes,https://leetcode.com/problems/reducing-dishes,Hard,2.Knapsack
+,,,
+House Robber II,https://leetcode.com/problems/house-robber-ii,Medium,2.Knapsack
+,,,
+Ones and Zeroes,https://leetcode.com/problems/ones-and-zeroes,Medium,2.Knapsack
+,,,
+Target Sum,https://leetcode.com/problems/target-sum,Medium,2.Knapsack
+,,,
+Shopping Offers,https://leetcode.com/problems/shopping-offers,Medium,2.Knapsack
+,,,
+2 Keys Keyboard,https://leetcode.com/problems/2-keys-keyboard,Medium,2.Knapsack
+,,,
+Minimum Swaps To Make Sequences Increasing,https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing,Medium,2.Knapsack
+,,,
+Best Team With No Conflicts,https://leetcode.com/problems/best-team-with-no-conflicts,Medium,2.Knapsack
+,,,
+Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv,Hard,3.Multi Dimensions DP
+,,,
+Create Maximum Number,https://leetcode.com/problems/create-maximum-number,Hard,3.Multi Dimensions DP
+,,,
+Frog Jump,https://leetcode.com/problems/frog-jump,Hard,3.Multi Dimensions DP
+,,,
+Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum,Hard,3.Multi Dimensions DP
+,,,
+Freedom Trail,https://leetcode.com/problems/freedom-trail,Hard,3.Multi Dimensions DP
+,,,
+Minimum Number of Refueling Stops,https://leetcode.com/problems/minimum-number-of-refueling-stops,Hard,3.Multi Dimensions DP
+,,,
+Number of Music Playlists,https://leetcode.com/problems/number-of-music-playlists,Hard,3.Multi Dimensions DP
+,,,
+Count Vowels Permutation,https://leetcode.com/problems/count-vowels-permutation,Hard,3.Multi Dimensions DP
+,,,
+Minimum Falling Path Sum II,https://leetcode.com/problems/minimum-falling-path-sum-ii,Hard,3.Multi Dimensions DP
+,,,
+Minimum Distance to Type a Word Using Two Fingers,https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers,Hard,3.Multi Dimensions DP
+,,,
+Minimum Difficulty of a Job Schedule,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule,Hard,3.Multi Dimensions DP
+,,,
+Number of Ways to Paint N × 3 Grid,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid,Hard,3.Multi Dimensions DP
+,,,
+Build Array Where You Can Find The Maximum Exactly K Comparisons,https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons,Hard,3.Multi Dimensions DP
+,,,
+Number of Ways of Cutting a Pizza,https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza,Hard,3.Multi Dimensions DP
+,,,
+Paint House III,https://leetcode.com/problems/paint-house-iii,Hard,3.Multi Dimensions DP
+,,,
+Count All Possible Routes,https://leetcode.com/problems/count-all-possible-routes,Hard,3.Multi Dimensions DP
+,,,
+Triangle,https://leetcode.com/problems/triangle,Medium,3.Multi Dimensions DP
+,,,
+Combination Sum IV,https://leetcode.com/problems/combination-sum-iv,Medium,3.Multi Dimensions DP
+,,,
+Out of Boundary Paths,https://leetcode.com/problems/out-of-boundary-paths,Medium,3.Multi Dimensions DP
+,,,
+Knight Probability in Chessboard,https://leetcode.com/problems/knight-probability-in-chessboard,Medium,3.Multi Dimensions DP
+,,,
+Champagne Tower,https://leetcode.com/problems/champagne-tower,Medium,3.Multi Dimensions DP
+,,,
+Largest Sum of Averages,https://leetcode.com/problems/largest-sum-of-averages,Medium,3.Multi Dimensions DP
+,,,
+Minimum Falling Path Sum,https://leetcode.com/problems/minimum-falling-path-sum,Medium,3.Multi Dimensions DP
+,,,
+Video Stitching,https://leetcode.com/problems/video-stitching,Medium,3.Multi Dimensions DP
+,,,
+Longest Arithmetic Subsequence,https://leetcode.com/problems/longest-arithmetic-subsequence,Medium,3.Multi Dimensions DP
+,,,
+Stone Game II,https://leetcode.com/problems/stone-game-ii,Medium,3.Multi Dimensions DP
+,,,
+Number of Dice Rolls With Target Sum,https://leetcode.com/problems/number-of-dice-rolls-with-target-sum,Medium,3.Multi Dimensions DP
+,,,
+Dice Roll Simulation,https://leetcode.com/problems/dice-roll-simulation,Medium,3.Multi Dimensions DP
+,,,
+Number of Sets of K Non-Overlapping Line Segments,https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments,Medium,3.Multi Dimensions DP
+,,,
+Palindrome Partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii,Hard,4.Interval DP
+,,,
+Burst Balloons,https://leetcode.com/problems/burst-balloons,Hard,4.Interval DP
+,,,
+Remove Boxes,https://leetcode.com/problems/remove-boxes,Hard,4.Interval DP
+,,,
+Strange Printer,https://leetcode.com/problems/strange-printer,Hard,4.Interval DP
+,,,
+Valid Permutations for DI Sequence,https://leetcode.com/problems/valid-permutations-for-di-sequence,Hard,4.Interval DP
+,,,
+Minimum Cost to Merge Stones,https://leetcode.com/problems/minimum-cost-to-merge-stones,Hard,4.Interval DP
+,,,
+Allocate Mailboxes,https://leetcode.com/problems/allocate-mailboxes,Hard,4.Interval DP
+,,,
+Minimum Cost to Cut a Stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick,Hard,4.Interval DP
+,,,
+Stone Game V,https://leetcode.com/problems/stone-game-v,Hard,4.Interval DP
+,,,
+Guess Number Higher or Lower II,https://leetcode.com/problems/guess-number-higher-or-lower-ii,Medium,4.Interval DP
+,,,
+Arithmetic Slices,https://leetcode.com/problems/arithmetic-slices,Medium,4.Interval DP
+,,,
+Predict the Winner,https://leetcode.com/problems/predict-the-winner,Medium,4.Interval DP
+,,,
+Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings,Medium,4.Interval DP
+,,,
+Stone Game,https://leetcode.com/problems/stone-game,Medium,4.Interval DP
+,,,
+Minimum Score Triangulation of Polygon,https://leetcode.com/problems/minimum-score-triangulation-of-polygon,Medium,4.Interval DP
+,,,
+Last Stone Weight II,https://leetcode.com/problems/last-stone-weight-ii,Medium,4.Interval DP
+,,,
+Minimum Cost Tree From Leaf Values,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values,Medium,4.Interval DP
+,,,
+Stone Game VII,https://leetcode.com/problems/stone-game-vii,Medium,4.Interval DP
+,,,
+Stickers to Spell Word,https://leetcode.com/problems/stickers-to-spell-word,Hard,5.bit DP
+,,,
+Shortest Path Visiting All Nodes,https://leetcode.com/problems/shortest-path-visiting-all-nodes,Hard,5.bit DP
+,,,
+Smallest Sufficient Team,https://leetcode.com/problems/smallest-sufficient-team,Hard,5.bit DP
+,,,
+Maximum Students Taking Exam,https://leetcode.com/problems/maximum-students-taking-exam,Hard,5.bit DP
+,,,
+Number of Ways to Wear Different Hats to Each Other,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other,Hard,5.bit DP
+,,,
+Minimum Cost to Connect Two Groups of Points,https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points,Hard,5.bit DP
+,,,
+Maximum Number of Achievable Transfer Requests,https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests,Hard,5.bit DP
+,,,
+Distribute Repeating Integers,https://leetcode.com/problems/distribute-repeating-integers,Hard,5.bit DP
+,,,
+Maximize Grid Happiness,https://leetcode.com/problems/maximize-grid-happiness,Hard,5.bit DP
+,,,
+Can I Win,https://leetcode.com/problems/can-i-win,Medium,5.bit DP
+,,,
+Partition to K Equal Sum Subsets,https://leetcode.com/problems/partition-to-k-equal-sum-subsets,Medium,5.bit DP
+,,,
+Non-negative Integers without Consecutive Ones,https://leetcode.com/problems/non-negative-integers-without-consecutive-ones,Hard,6.Digit DP
+,,,
+Numbers At Most N Given Digit Set,https://leetcode.com/problems/numbers-at-most-n-given-digit-set,Hard,6.Digit DP
+,,,
+Numbers With Repeated Digits,https://leetcode.com/problems/numbers-with-repeated-digits,Hard,6.Digit DP
+,,,
+Binary Tree Cameras,https://leetcode.com/problems/binary-tree-cameras,Hard,7.DP on Trees
+,,,
+Maximum Sum BST in Binary Tree,https://leetcode.com/problems/maximum-sum-bst-in-binary-tree,Hard,7.DP on Trees
+,,,
+Number of Ways to Reorder Array to Get Same BST,https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst,Hard,7.DP on Trees
+,,,
+Unique Binary Search Trees II,https://leetcode.com/problems/unique-binary-search-trees-ii,Medium,7.DP on Trees
+,,,
+House Robber III,https://leetcode.com/problems/house-robber-iii,Medium,7.DP on Trees
+,,,
+Maximum Product of Splitted Binary Tree,https://leetcode.com/problems/maximum-product-of-splitted-binary-tree,Medium,7.DP on Trees
+,,,
+Linked List in Binary Tree,https://leetcode.com/problems/linked-list-in-binary-tree,Medium,7.DP on Trees
+,,,
+Longest ZigZag Path in a Binary Tree,https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree,Medium,7.DP on Trees
+,,,
+Is Subsequence,https://leetcode.com/problems/is-subsequence,Easy,8.String DP
+,,,
+Longest Valid Parentheses,https://leetcode.com/problems/longest-valid-parentheses,Hard,8.String DP
+,,,
+Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences,Hard,8.String DP
+,,,
+Word Break II,https://leetcode.com/problems/word-break-ii,Hard,8.String DP
+,,,
+Count The Repetitions,https://leetcode.com/problems/count-the-repetitions,Hard,8.String DP
+,,,
+Concatenated Words,https://leetcode.com/problems/concatenated-words,Hard,8.String DP
+,,,
+Count Different Palindromic Subsequences,https://leetcode.com/problems/count-different-palindromic-subsequences,Hard,8.String DP
+,,,
+Distinct Subsequences II,https://leetcode.com/problems/distinct-subsequences-ii,Hard,8.String DP
+,,,
+Longest Chunked Palindrome Decomposition,https://leetcode.com/problems/longest-chunked-palindrome-decomposition,Hard,8.String DP
+,,,
+Palindrome Partitioning III,https://leetcode.com/problems/palindrome-partitioning-iii,Hard,8.String DP
+,,,
+Find All Good Strings,https://leetcode.com/problems/find-all-good-strings,Hard,8.String DP
+,,,
+String Compression II,https://leetcode.com/problems/string-compression-ii,Hard,8.String DP
+,,,
+Number of Ways to Form a Target String Given a Dictionary,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary,Hard,8.String DP
+,,,
+Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning,Medium,8.String DP
+,,,
+Word Break,https://leetcode.com/problems/word-break,Medium,8.String DP
+,,,
+Unique Substrings in Wraparound String,https://leetcode.com/problems/unique-substrings-in-wraparound-string,Medium,8.String DP
+,,,
+Minimum ASCII Delete Sum for Two Strings,https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings,Medium,8.String DP
+,,,
+Longest String Chain,https://leetcode.com/problems/longest-string-chain,Medium,8.String DP
+,,,
+Longest Happy String,https://leetcode.com/problems/longest-happy-string,Medium,8.String DP
+,,,
+Soup Servings,https://leetcode.com/problems/soup-servings,Medium,9.Probability DP
+,,,
+New 21 Game,https://leetcode.com/problems/new-21-game,Medium,9.Probability DP
+,,,
+Airplane Seat Assignment Probability,https://leetcode.com/problems/airplane-seat-assignment-probability,Medium,9.Probability DP
+,,,
+Maximum Subarray,https://leetcode.com/problems/maximum-subarray,Easy,10.Classic DP
+,,,
+Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray,Medium,10.Classic DP
+,,,
+Bitwise ORs of Subarrays,https://leetcode.com/problems/bitwise-ors-of-subarrays,Medium,10.Classic DP
+,,,
+Longest Turbulent Subarray,https://leetcode.com/problems/longest-turbulent-subarray,Medium,10.Classic DP
+,,,
+Maximum Subarray Sum with One Deletion,https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion,Medium,10.Classic DP
+,,,
+K-Concatenation Maximum Sum,https://leetcode.com/problems/k-concatenation-maximum-sum,Medium,10.Classic DP
+,,,
+Largest Divisible Subset,https://leetcode.com/problems/largest-divisible-subset,Medium,10.Classic DP
+,,,
+Length of Longest Fibonacci Subsequence,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence,Medium,10.Classic DP
+,,,
+Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching,Hard,10.Classic DP
+,,,
+Wildcard Matching,https://leetcode.com/problems/wildcard-matching,Hard,10.Classic DP
+,,,
+Edit Distance,https://leetcode.com/problems/edit-distance,Hard,10.Classic DP
+,,,
+Interleaving String,https://leetcode.com/problems/interleaving-string,Hard,10.Classic DP
+,,,
+Shortest Common Supersequence,https://leetcode.com/problems/shortest-common-supersequence,Hard,10.Classic DP
+,,,
+Minimum Insertion Steps to Make a String Palindrome,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome,Hard,10.Classic DP
+,,,
+Max Dot Product of Two Subsequences,https://leetcode.com/problems/max-dot-product-of-two-subsequences,Hard,10.Classic DP
+,,,
+Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring,Medium,10.Classic DP
+,,,
+Longest Palindromic Subsequence,https://leetcode.com/problems/longest-palindromic-subsequence,Medium,10.Classic DP
+,,,
+Maximum Length of Repeated Subarray,https://leetcode.com/problems/maximum-length-of-repeated-subarray,Medium,10.Classic DP
+,,,
+Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence,Medium,10.Classic DP
+,,,
+Russian Doll Envelopes,https://leetcode.com/problems/russian-doll-envelopes,Hard,10.Classic DP
+,,,
+Delete Columns to Make Sorted III,https://leetcode.com/problems/delete-columns-to-make-sorted-iii,Hard,10.Classic DP
+,,,
+Make Array Strictly Increasing,https://leetcode.com/problems/make-array-strictly-increasing,Hard,10.Classic DP
+,,,
+Minimum Number of Removals to Make Mountain Array,https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array,Hard,10.Classic DP
+,,,
+Maximum Height by Stacking Cuboids,https://leetcode.com/problems/maximum-height-by-stacking-cuboids,Hard,10.Classic DP
+,,,
+Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence,Medium,10.Classic DP
+,,,
+Number of Longest Increasing Subsequence,https://leetcode.com/problems/number-of-longest-increasing-subsequence,Medium,10.Classic DP
+,,,
+Dungeon Game,https://leetcode.com/problems/dungeon-game,Hard,10.Classic DP
+,,,
+Cherry Pickup,https://leetcode.com/problems/cherry-pickup,Hard,10.Classic DP
+,,,
+Number of Paths with Max Score,https://leetcode.com/problems/number-of-paths-with-max-score,Hard,10.Classic DP
+,,,
+Cherry Pickup II,https://leetcode.com/problems/cherry-pickup-ii,Hard,10.Classic DP
+,,,
+Kth Smallest Instructions,https://leetcode.com/problems/kth-smallest-instructions,Hard,10.Classic DP
+,,,
+Unique Paths,https://leetcode.com/problems/unique-paths,Medium,10.Classic DP
+,,,
+Unique Paths II,https://leetcode.com/problems/unique-paths-ii,Medium,10.Classic DP
+,,,
+Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum,Medium,10.Classic DP
+,,,
+Maximum Non Negative Product in a Matrix,https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix,Medium,10.Classic DP
+,,,
+Where Will the Ball Fall,https://leetcode.com/problems/where-will-the-ball-fall,Medium,10.Classic DP
+,,,
+Range Sum Query - Immutable,https://leetcode.com/problems/range-sum-query-immutable,Easy,10.Classic DP
+,,,
+Maximal Rectangle,https://leetcode.com/problems/maximal-rectangle,Hard,10.Classic DP
+,,,
+Max Sum of Rectangle No Larger Than K,https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k,Hard,10.Classic DP
+,,,
+Super Washing Machines,https://leetcode.com/problems/super-washing-machines,Hard,10.Classic DP
+,,,
+Maximum Sum of 3 Non-Overlapping Subarrays,https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays,Hard,10.Classic DP
+,,,
+Number of Submatrices That Sum to Target,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target,Hard,10.Classic DP
+,,,
+Get the Maximum Score,https://leetcode.com/problems/get-the-maximum-score,Hard,10.Classic DP
+,,,
+Maximal Square,https://leetcode.com/problems/maximal-square,Medium,10.Classic DP
+,,,
+Range Sum Query 2D - Immutable,https://leetcode.com/problems/range-sum-query-2d-immutable,Medium,10.Classic DP
+,,,
+Largest Plus Sign,https://leetcode.com/problems/largest-plus-sign,Medium,10.Classic DP
+,,,
+Push Dominoes,https://leetcode.com/problems/push-dominoes,Medium,10.Classic DP
+,,,
+Largest 1-Bordered Square,https://leetcode.com/problems/largest-1-bordered-square,Medium,10.Classic DP
+,,,
+Count Square Submatrices with All Ones,https://leetcode.com/problems/count-square-submatrices-with-all-ones,Medium,10.Classic DP
+,,,
+Matrix Block Sum,https://leetcode.com/problems/matrix-block-sum,Medium,10.Classic DP
+,,,
+Maximum Points You Can Obtain from Cards,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards,Medium,10.Classic DP
+,,,
+Count Submatrices With All Ones,https://leetcode.com/problems/count-submatrices-with-all-ones,Medium,10.Classic DP
+,,,
+Ways to Make a Fair Array,https://leetcode.com/problems/ways-to-make-a-fair-array,Medium,10.Classic DP
+,,,
+Continuous Subarray Sum,https://leetcode.com/problems/continuous-subarray-sum,Medium,10.Classic DP
+,,,
+Find Two Non-overlapping Sub-arrays Each With Target Sum,https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum,Medium,10.Classic DP
+,,,
+Maximum Number of Non-Overlapping Subarrays With Sum Equals Target,https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target,Medium,10.Classic DP
+,,,
+Arithmetic Slices II - Subsequence,https://leetcode.com/problems/arithmetic-slices-ii-subsequence,Hard,11. DP + Alpha (Tricks/DS)
+,,,
+Odd Even Jump,https://leetcode.com/problems/odd-even-jump,Hard,11. DP + Alpha (Tricks/DS)
+,,,
+Constrained Subsequence Sum,https://leetcode.com/problems/constrained-subsequence-sum,Hard,11. DP + Alpha (Tricks/DS)
+,,,
+Delivering Boxes from Storage to Ports,https://leetcode.com/problems/delivering-boxes-from-storage-to-ports,Hard,11. DP + Alpha (Tricks/DS)
+,,,
+K Inverse Pairs Array,https://leetcode.com/problems/k-inverse-pairs-array,Hard,12.Insertion DP
+,,,
+Find the Shortest Superstring,https://leetcode.com/problems/find-the-shortest-superstring,Hard,13.Graph DP
+,,,
+Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops,Medium,13.Graph DP
+,,,
+Scramble String,https://leetcode.com/problems/scramble-string,Hard,14.Memoization
+,,,
+Tiling a Rectangle with the Fewest Squares,https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares,Hard,14.Memoization
+,,,
+Number of Ways to Stay in the Same Place After Some Steps,https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps,Hard,14.Memoization
+,,,
+Jump Game V,https://leetcode.com/problems/jump-game-v,Hard,14.Memoization
+,,,
+Minimum Number of Days to Eat N Oranges,https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges,Hard,14.Memoization
+,,,
+Minimum Jumps to Reach Home,https://leetcode.com/problems/minimum-jumps-to-reach-home,Medium,14.Memoization
+,,,
+Kth Ancestor of a Tree Node,https://leetcode.com/problems/kth-ancestor-of-a-tree-node,Hard,15. Binary Lifting
+,,,
+Race Car,https://leetcode.com/problems/race-car,Hard,16. Math
+,,,
+Super Egg Drop,https://leetcode.com/problems/super-egg-drop,Hard,16. Math
+,,,
+Least Operators to Express Number,https://leetcode.com/problems/least-operators-to-express-number,Hard,16. Math
+,,,
+Largest Multiple of Three,https://leetcode.com/problems/largest-multiple-of-three,Hard,16. Math
+,,,
+Minimum One Bit Operations to Make Integers Zero,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero,Hard,16. Math
+,,,
+Ugly Number II,https://leetcode.com/problems/ugly-number-ii,Medium,16. Math
